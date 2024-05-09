@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Redux/static/css/main.b4b9908e.css",
+    "main.js": "/ReactJS-Redux/static/js/main.fae97100.js",
+    "static/media/logo.svg": "/ReactJS-Redux/static/media/logo.0905522d6d18ceaafa60a31e87c99e88.svg",
+    "index.html": "/ReactJS-Redux/index.html",
+    "main.b4b9908e.css.map": "/ReactJS-Redux/static/css/main.b4b9908e.css.map",
+    "main.fae97100.js.map": "/ReactJS-Redux/static/js/main.fae97100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4b9908e.css",
+    "static/js/main.fae97100.js"
+  ]
+}
